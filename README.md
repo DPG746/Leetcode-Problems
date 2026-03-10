@@ -36,6 +36,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -57,8 +58,13 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
