@@ -13,6 +13,7 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DPG746/Coding-Prep-for-Interview/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -76,4 +77,8 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0018-4sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0977-squares-of-a-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
