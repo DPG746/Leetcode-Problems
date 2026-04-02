@@ -7,6 +7,7 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DPG746/Coding-Prep-for-Interview/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -22,6 +23,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DPG746/Coding-Prep-for-Interview/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -39,6 +41,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0075-sort-colors](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1004-max-consecutive-ones-iii) |
