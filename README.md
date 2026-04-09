@@ -11,6 +11,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0219-contains-duplicate-ii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DPG746/Coding-Prep-for-Interview/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -49,6 +50,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0209-minimum-size-subarray-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -61,6 +63,7 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
