@@ -9,6 +9,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0001-two-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0242-valid-anagram) |
@@ -41,6 +42,7 @@ As I am preparing for interview I have to revise question what I have done it so
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DPG746/Coding-Prep-for-Interview/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
@@ -53,6 +55,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0283-move-zeroes) |
@@ -100,6 +103,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0015-3sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,4 +119,8 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
