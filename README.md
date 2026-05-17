@@ -140,4 +140,20 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
