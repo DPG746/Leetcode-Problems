@@ -144,16 +144,20 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
