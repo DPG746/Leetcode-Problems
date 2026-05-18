@@ -144,24 +144,28 @@ As I am preparing for interview I have to revise question what I have done it so
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0112-path-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0112-path-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0112-path-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0112-path-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
