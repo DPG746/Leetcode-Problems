@@ -63,6 +63,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0560-subarray-sum-equals-k](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
