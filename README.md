@@ -131,6 +131,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0178-rank-scores](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0183-customers-who-never-order) |
+| [0185-department-top-three-salaries](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0610-triangle-judgement) |
 | [1164-product-price-at-a-given-date](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1164-product-price-at-a-given-date) |
