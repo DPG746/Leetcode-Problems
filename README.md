@@ -138,6 +138,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0196-delete-duplicate-emails](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0197-rising-temperature) |
 | [0610-triangle-judgement](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0610-triangle-judgement) |
+| [0626-exchange-seats](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0626-exchange-seats) |
 | [1164-product-price-at-a-given-date](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1164-product-price-at-a-given-date) |
 | [1179-reformat-department-table](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1179-reformat-department-table) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1204-last-person-to-fit-in-the-bus) |
