@@ -1,33 +1,52 @@
 class Solution {
+
+    void bfs(char[][] grid,int i,int j){
+        Queue<int[]> queue = new LinkedList<>();
+        queue.add(new int[]{i,j});
+        grid[i][j]='0';
+        while(!queue.isEmpty()){
+            int[] cell= queue.poll();
+            int row = cell[0];
+            int col = cell[1];
+            if(row-1>=0 && grid[row-1][col]=='1'){
+                grid[row-1][col]='0';
+                queue.add(new int[]{row-1,col});}
+
+            if(row+1<grid.length && grid[row+1][col]=='1'){
+                grid[row+1][col]='0';
+                queue.add(new int[]{row+1,col});
+
+            }
+            if(col-1>=0 && grid[row][col-1]=='1'){
+                grid[row][col-1]='0';
+                queue.add(new int[]{row,col-1});
+
+            }
+            if(col+1<grid[0].length && grid[row][col+1]=='1'){
+                grid[row][col+1]='0';
+                queue.add(new int[]{row,col+1});
+
+            }
+        }
+    }
+
     public int numIslands(char[][] grid) {
-        if(grid==null || grid.length == 0 || grid[0].length == 0){
+        if(grid==null || grid.length==0 || grid[0].length==0){
             return 0;
 
         }
-        int count=0;
+        int cnt =0;
+
         for(int i=0;i<grid.length;i++){
-            for(int j=0;j<grid[0].length;j++){
-                if(grid[i][j]=='1'){
-                    dfs(grid,i,j);
-                    count++;
+            for(int j=0;j<grid[i].length;j++){
+                if(grid[i][j] == '1'){
+                    bfs(grid,i,j);
+                    cnt++;
 
                 }
 
             }
-
         }
-        return count;
-    }
-    private void dfs(char[][] grid,int i,int j){
-        if(i<0 || i>=grid.length || j<0 || j>=grid[0].length || grid[i][j]=='0'){
-            return;
-
-        }
-        grid[i][j]='0';
-
-        dfs(grid,i+1,j);
-        dfs(grid,i-1,j);
-        dfs(grid,i,j+1);
-        dfs(grid,i,j-1);
+        return cnt;
     }
 }
