@@ -82,6 +82,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0560-subarray-sum-equals-k](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2485-find-the-pivot-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0202-happy-number) |
+| [2485-find-the-pivot-integer](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2485-find-the-pivot-integer) |
 ## Queue
 |  |
 | ------- |
