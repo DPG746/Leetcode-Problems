@@ -56,6 +56,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0018-4sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0200-number-of-islands) |
@@ -223,4 +224,8 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
