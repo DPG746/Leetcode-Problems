@@ -90,6 +90,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0011-container-with-most-water](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0125-valid-palindrome) |
@@ -159,6 +160,7 @@ As I am preparing for interview I have to revise question what I have done it so
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
