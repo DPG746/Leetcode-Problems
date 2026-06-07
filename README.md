@@ -56,6 +56,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0015-3sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -75,6 +76,7 @@ As I am preparing for interview I have to revise question what I have done it so
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0268-missing-number) |
