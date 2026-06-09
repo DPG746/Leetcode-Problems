@@ -165,6 +165,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [1179-reformat-department-table](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1179-reformat-department-table) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1683-invalid-tweets](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Linked List
