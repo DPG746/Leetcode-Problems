@@ -134,6 +134,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0202-happy-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0268-missing-number) |
+| [0728-self-dividing-numbers](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0728-self-dividing-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2485-find-the-pivot-integer) |
 ## Queue
 |  |
