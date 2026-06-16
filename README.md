@@ -65,6 +65,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0200-number-of-islands](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -86,6 +87,7 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1991-find-the-middle-index-in-array) |
