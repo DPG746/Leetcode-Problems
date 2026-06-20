@@ -74,6 +74,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [1004-max-consecutive-ones-iii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1046-last-stone-weight) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1991-find-the-middle-index-in-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Binary Search
@@ -115,6 +116,7 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0011-container-with-most-water) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Sorting
 |  |
@@ -252,5 +254,6 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 <!---LeetCode Topics End-->
