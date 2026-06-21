@@ -30,6 +30,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0242-valid-anagram](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0567-permutation-in-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DPG746/Coding-Prep-for-Interview/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
@@ -116,6 +117,7 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Sorting
@@ -133,6 +135,7 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
