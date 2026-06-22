@@ -79,6 +79,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [1991-find-the-middle-index-in-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2126-destroying-asteroids](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2126-destroying-asteroids) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [1962-remove-stones-to-minimize-the-total](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2126-destroying-asteroids](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2126-destroying-asteroids) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +136,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0349-intersection-of-two-arrays](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2126-destroying-asteroids](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2126-destroying-asteroids) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Stack
 |  |
 | ------- |
