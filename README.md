@@ -77,6 +77,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1991-find-the-middle-index-in-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2126-destroying-asteroids](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2126-destroying-asteroids) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Binary Search
 |  |
@@ -119,6 +120,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0011-container-with-most-water](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2126-destroying-asteroids](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2126-destroying-asteroids) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0268-missing-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2126-destroying-asteroids](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2126-destroying-asteroids) |
 ## Stack
 |  |
 | ------- |
