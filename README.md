@@ -146,6 +146,7 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0263-ugly-number) |
@@ -193,6 +194,7 @@ As I am preparing for interview I have to revise question what I have done it so
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
