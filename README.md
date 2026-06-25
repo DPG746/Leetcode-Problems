@@ -70,6 +70,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0238-product-of-array-except-self](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -121,6 +122,7 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2126-destroying-asteroids](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2126-destroying-asteroids) |
