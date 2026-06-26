@@ -30,6 +30,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0151-reverse-words-in-a-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DPG746/Coding-Prep-for-Interview/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -116,6 +117,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0202-happy-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
