@@ -159,6 +159,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0263-ugly-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0728-self-dividing-numbers) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/DPG746/Sliding-Window-Problems/tree/master/2485-find-the-pivot-integer) |
 ## Queue
 |  |
@@ -278,4 +279,12 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0046-permutations](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0046-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/DPG746/Sliding-Window-Problems/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
