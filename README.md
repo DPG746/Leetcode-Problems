@@ -111,6 +111,7 @@ As I am preparing for interview I have to revise question what I have done it so
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -199,6 +200,7 @@ As I am preparing for interview I have to revise question what I have done it so
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/DPG746/Sliding-Window-Problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
